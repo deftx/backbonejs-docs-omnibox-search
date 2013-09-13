@@ -263,7 +263,7 @@ module.exports = function (grunt) {
         compress: {
             dist: {
                 options: {
-                    archive: 'package/search extension.zip'
+                    archive: 'package/backbonejs-docs-omnibox-search.zip'
                 },
                 files: [{
                     expand: true,
